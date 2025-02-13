@@ -1,0 +1,3 @@
+[functions.publish-thread]
+verify_jwt = false
+schedule = "* * * * *"  # 매분 실행 

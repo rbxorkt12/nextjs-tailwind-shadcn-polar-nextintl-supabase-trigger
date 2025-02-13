@@ -1,0 +1,70 @@
+{
+    "Metadata": {
+        "title": "Idea2Posts - AI-Powered Thread Posting Automation Service",
+        "description": "AI saves you 90% of the time spent managing your threads. If you have a link or idea, we'll automatically generate optimized Thread posts for you.",
+        "og": {
+            "title": "Idea2Posts - AI-Powered Thread Management Automation",
+            "description": "AI saves you 90% of the time spent managing your threads! Just share a content link. AI will automatically generate and schedule posts.",
+            "alt": "Idea2Posts Preview"
+        },
+        "twitter": {
+            "title": "Idea2Posts - AI-Powered Thread Management Automation",
+            "description": "AI saves you 90% of the time spent managing your threads! Just share a content link. AI will automatically generate and schedule posts."
+        }
+    },
+    "Navigation": {
+        "features": "Features",
+        "howItWorks": "How it Works",
+        "testimonials": "Testimonials",
+        "pricing": "Pricing",
+        "startFree": "Start Free"
+    },
+    "Navbar": {
+        "signOut": "Sign Out",
+        "settings": "Settings",
+        "dashboard": "Dashboard",
+        "analytics": "Analytics",
+        "automation": "Automation",
+        "accounts": "Accounts",
+        "manageAccounts": "Manage Accounts",
+        "addNewAccount": "Add New Account",
+        "refreshAccounts": "Refresh Accounts",
+        "syncAccounts": "Sync Posts",
+        "refreshFailed": "Failed to refresh accounts",
+        "syncSuccess": "Posts synced successfully",
+        "syncFailed": "Failed to sync posts"
+    },
+    "footer": {
+        "company": {
+            "title": "Company",
+            "description": "AI-powered thread management automation to save your time and boost engagement.",
+            "about": "About Us",
+            "blog": "Blog",
+            "careers": "Careers",
+            "contact": "Contact"
+        },
+        "products": {
+            "title": "Products",
+            "features": "Features",
+            "pricing": "Pricing",
+            "demo": "Request Demo",
+            "api": "API"
+        },
+        "support": {
+            "title": "Support",
+            "helpCenter": "Help Center",
+            "documentation": "Documentation",
+            "status": "System Status",
+            "security": "Security"
+        },
+        "legal": {
+            "terms": "Terms",
+            "privacy": "Privacy",
+            "cookies": "Cookies"
+        },
+        "copyright": "© 2024 Idea2Posts. All rights reserved."
+    },
+    "Dashboard": {
+        "title": "Dashboard"
+    }
+}
